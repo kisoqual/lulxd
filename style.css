@@ -1,0 +1,9 @@
+*{
+    background-color: #101010; 
+    color: white;
+    font-family: serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 95%
+}
